@@ -9,7 +9,7 @@ Follow these steps to set up the Stock Market project on your local system:
 ### You should have django and djnago restframework installed in your system
 
 1. #### Clone the Repository:
-    ```git clone ```
+    ```git clone https://github.com/Meet26499/Stock-Market```
 
 2. #### Create a Virtual Environment (Optional):
 
